@@ -1,0 +1,128 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.navbar {
+    background-color:#10dd44;
+    display:flex;
+    justify-content: flex-start;
+   
+}
+.middle-container {
+    background-color: #FFFFFF;
+    width:100%;
+    border-radius:3px;
+    padding:35px;
+    margin:0 auto;
+}
+.middle-container h1 {
+    text-align:center;
+}
+.john {
+    display:flex;
+    flex-direction:column;
+   
+}
+.rasel{
+    display:flex;
+    flex-direction:column;
+   
+}
+.sufian {
+    display:flex;
+    flex-direction:column;
+    
+}
+.shajed {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.shajed img {
+    margin-right:30px;
+}
+.maruf {
+    display:flex;
+    flex-direction:column;
+    
+}
+.maruf img {
+    margin-right:20px;
+}
+
+.maruf p {
+    
+    margin-left:15px;
+}
+.mujahid {
+    display:flex;
+    flex-direction:column;
+    
+    
+}
+.mujahid img {
+    margin-left:30px;
+}
+.element-info-1 {
+    display:flex;
+    justify-content:space-between;
+    flex-direction:column;
+    align-items:center;
+    
+    
+    }
+    .element-1 {
+        padding:10px;
+        padding-left: 40px;
+    }
+    .element-2 {
+        padding:10px;
+    }
+
+    .footer-container {
+        background-color: #FFFFFF;
+        width:100%;
+        border-radius:3px;
+        padding:35px;
+        margin:0 auto;
+        
+    }
+    .footer-container h1 {
+        color:#562EFF;
+        font-size:24px;
+        padding-top:10px;
+        padding-left:5px;
+        text-align:center;
+    }
+
+    .footer-element {
+        display:flex;
+        flex-direction:column;
+        align-items: center;
+    }
+    .footer-element-1 {
+        margin:0px 10px 10px 10px;
+        width:80%;
+        padding:10px;
+        margin:10px;
+        border-radius:15px;
+        box-shadow:1px 1px 10px  #ebebeb;
+    }
+    .footer-element-2 {
+        margin:0px 10px 10px 10px;
+        width:80%;
+        padding:10px;
+        margin:10px;
+        border-radius:15px;
+        box-shadow:1px 1px 10px  #ebebeb;
+    }
+    .footer-element-3 {
+        margin:0px 10px 10px 10px;
+        width:80%;
+        padding:10px;
+        margin:10px;
+        border-radius:15px;
+        box-shadow:1px 1px 10px  #ebebeb;
+    }
